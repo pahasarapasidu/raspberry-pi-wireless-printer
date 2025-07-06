@@ -6,6 +6,7 @@
 [![CUPS](https://img.shields.io/badge/CUPS-Print%20Server-blue)](https://www.cups.org/)
 
 > Transform any USB printer into a wireless network printer using Raspberry Pi and CUPS print server
+> "Finally got rid of the USB cable running across my living room! Works perfectly with my phone and laptop." 
 
 ## 📋 Table of Contents
 
@@ -189,26 +190,6 @@ ping your-pi-ip
 sudo tail -f /var/log/cups/error_log
 ```
 
-## 📁 Project Structure
-
-```
-raspberry-pi-wireless-printer/
-├── 📄 README.md
-├── 📜 LICENSE
-├── 📋 .gitignore
-├── 📁 scripts/
-│   ├── 🚀 install.sh
-│   ├── ⚙️ configure-cups.sh
-│   └── 🔥 firewall-setup.sh
-├── 📁 docs/
-│   ├── 📖 setup-guide.md
-│   ├── 🔧 troubleshooting.md
-│   └── 🖼️ images/
-└── 📁 examples/
-    ├── 🪟 windows/
-    ├── 🐧 linux/
-    └── 📱 android/
-```
 
 ## 🤝 Contributing
 
@@ -238,11 +219,7 @@ Contributions are welcome! Here's how you can help:
 | **Uptime** | 99.9% |
 | **Network Bandwidth** | < 10MB/hour |
 
-## 🏆 Success Stories
 
-> "Finally got rid of the USB cable running across my living room! Works perfectly with my phone and laptop." - *User feedback*
-
-> "Set it up in 30 minutes and been printing wirelessly for months without issues." - *Community member*
 
 ## 📄 License
 
@@ -268,6 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Don't forget to star this repository if it helped you! ⭐**
 
-Made with ❤️ and lots of ☕ by [YourName]
+Made with ❤️ and lots of ☕ by [last-knight]
 
 </div>
