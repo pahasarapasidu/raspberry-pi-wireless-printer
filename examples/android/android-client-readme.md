@@ -6,7 +6,7 @@ Connect your Android device to print wirelessly to your Raspberry Pi printer ser
 
 This guide shows how to set up wireless printing from Android devices to your Canon G2010 printer connected to a Raspberry Pi. Works with **Android 6.0+** and various printing apps.
 
-![Android Setup Success](../../docs/images/android-setup-success.jpg)
+![Android Setup Success](androidtest2.jpg)
 *Android successfully printing to Raspberry Pi printer*
 
 ## 📋 Prerequisites
