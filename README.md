@@ -221,7 +221,8 @@ Contributions are welcome! Here's how you can help:
 | **Uptime** | 99.9% |
 | **Network Bandwidth** | < 10MB/hour |
 
-
+![Android Setup Success](./examples/android/androidtest1.jpg)
+*Android successfully printing to Raspberry Pi printer*
 
 ## 📄 License
 
