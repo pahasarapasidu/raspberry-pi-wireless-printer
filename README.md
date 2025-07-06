@@ -64,7 +64,7 @@ This project converts a **Canon G2010** (or any compatible USB printer) into a w
 ### 🚀 One-Line Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/raspberry-pi-wireless-printer/main/scripts/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/pahasarapasidu/raspberry-pi-wireless-printer/main/scripts/install.sh | bash
 ```
 
 ### 📝 Manual Steps
