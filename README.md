@@ -5,7 +5,9 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![CUPS](https://img.shields.io/badge/CUPS-Print%20Server-blue)](https://www.cups.org/)
 
-> Transform any USB printer into a wireless network printer using Raspberry Pi and CUPS print server
+> Transform any USB printer into a wireless network printer using Raspberry Pi and CUPS print server.
+> I got board to connect cabels so I do this :).
+> 
 > "Finally got rid of the USB cable running across my living room! Works perfectly with my phone and laptop." 
 
 ## 📋 Table of Contents
