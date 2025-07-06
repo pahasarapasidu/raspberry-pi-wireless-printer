@@ -25,8 +25,7 @@ This guide shows how to set up wireless printing from Android devices to your Ca
 3. Install the app by Canon Inc.
 4. The service will be automatically enabled
 
-![Canon Print Service Install](images/android-canon-app.jpg)
-*Installing Canon Print Service from Play Store*
+
 
 ### Step 2: Enable Print Service
 
@@ -34,8 +33,6 @@ This guide shows how to set up wireless printing from Android devices to your Ca
 2. Find **Canon Print Service** and ensure it's enabled
 3. Tap on it to configure if needed
 
-![Print Service Settings](images/android-print-services.jpg)
-*Android Print Services settings*
 
 ### Step 3: Add Printer Manually
 
@@ -48,8 +45,7 @@ Since auto-discovery often fails, manually add the printer:
 5. Choose **Canon Print Service**
 6. Tap **Add by IP Address**
 
-![Add Printer by IP](images/android-add-by-ip.jpg)
-*Adding printer by IP address*
+
 
 ### Step 4: Configure Printer Connection
 
@@ -58,8 +54,7 @@ Since auto-discovery often fails, manually add the printer:
 3. **Printer Path**: `/printers/Canon_G2010` (or your printer name)
 4. **Full URL**: `http://192.168.1.100:631/printers/Canon_G2010`
 
-![Printer Configuration](images/android-printer-config.jpg)
-*Configuring printer connection details*
+
 
 ### Step 5: Test Print
 
@@ -70,9 +65,8 @@ Since auto-discovery often fails, manually add the printer:
 5. Adjust settings (copies, paper size, etc.)
 6. Tap **Print**
 
-![Test Print](images/android-test-print.jpg)
-*Testing print from Android Gallery*
-
+![Test Print](androidtest1.jpg)
+*Testing print*
 ## 🔧 Method 2: Mopria Print Service (Alternative)
 
 ### Why Use Mopria?
@@ -90,8 +84,7 @@ Mopria often works better with CUPS servers than manufacturer-specific apps.
 2. Add printer using IP address method
 3. Use the same configuration as Canon Print Service
 
-![Mopria Setup](images/android-mopria-setup.jpg)
-*Mopria Print Service configuration*
+
 
 ## 🖨️ Method 3: Third-Party Apps
 
@@ -108,8 +101,6 @@ Mopria often works better with CUPS servers than manufacturer-specific apps.
 2. Configure IPP connection
 3. Test with sample document
 
-![Third Party Apps](images/android-third-party.jpg)
-*Third-party printing apps*
 
 ## 🛠️ Troubleshooting
 
@@ -198,8 +189,7 @@ sudo systemctl restart cups
    - **Color**: Full color printing
    - **Grayscale**: Black and white only
 
-![Print Settings](images/android-print-settings.jpg)
-*Android print settings options*
+*
 
 ## 📱 App-Specific Printing
 
@@ -227,8 +217,7 @@ sudo systemctl restart cups
 2. Tap **Share** > **Print**
 3. Adjust photo settings
 
-![App Printing](images/android-app-printing.jpg)
-*Printing from various Android apps*
+
 
 ## 🔍 Advanced Configuration
 
